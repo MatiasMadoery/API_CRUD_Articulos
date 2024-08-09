@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\matim\\OneDrive\\TUP\\proyectos\\APIPruebas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3DBC232-F8C0-4FFB-8956-80E522C047D6}|APIPruebas\\APIPruebas.csproj|c:\\users\\matim\\onedrive\\tup\\proyectos\\apipruebas\\apipruebas\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3DBC232-F8C0-4FFB-8956-80E522C047D6}|APIPruebas\\APIPruebas.csproj|solutionrelative:apipruebas\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3DBC232-F8C0-4FFB-8956-80E522C047D6}|APIPruebas\\APIPruebas.csproj|c:\\users\\matim\\onedrive\\tup\\proyectos\\apipruebas\\apipruebas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3DBC232-F8C0-4FFB-8956-80E522C047D6}|APIPruebas\\APIPruebas.csproj|solutionrelative:apipruebas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3DBC232-F8C0-4FFB-8956-80E522C047D6}|APIPruebas\\APIPruebas.csproj|c:\\users\\matim\\onedrive\\tup\\proyectos\\apipruebas\\apipruebas\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3DBC232-F8C0-4FFB-8956-80E522C047D6}|APIPruebas\\APIPruebas.csproj|solutionrelative:apipruebas\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3DBC232-F8C0-4FFB-8956-80E522C047D6}|APIPruebas\\APIPruebas.csproj|c:\\users\\matim\\onedrive\\tup\\proyectos\\apipruebas\\apipruebas\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3DBC232-F8C0-4FFB-8956-80E522C047D6}|APIPruebas\\APIPruebas.csproj|solutionrelative:apipruebas\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3DBC232-F8C0-4FFB-8956-80E522C047D6}|APIPruebas\\APIPruebas.csproj|c:\\users\\matim\\onedrive\\tup\\proyectos\\apipruebas\\apipruebas\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A3DBC232-F8C0-4FFB-8956-80E522C047D6}|APIPruebas\\APIPruebas.csproj|solutionrelative:apipruebas\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3DBC232-F8C0-4FFB-8956-80E522C047D6}|APIPruebas\\APIPruebas.csproj|c:\\users\\matim\\onedrive\\tup\\proyectos\\apipruebas\\apipruebas\\models\\dbapiarticuloscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3DBC232-F8C0-4FFB-8956-80E522C047D6}|APIPruebas\\APIPruebas.csproj|solutionrelative:apipruebas\\models\\dbapiarticuloscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\matim\\OneDrive\\TUP\\proyectos\\APIPruebas\\APIPruebas\\Models\\Categoria.cs",
+              "RelativeDocumentMoniker": "APIPruebas\\Models\\Categoria.cs",
+              "ToolTip": "C:\\Users\\matim\\OneDrive\\TUP\\proyectos\\APIPruebas\\APIPruebas\\Models\\Categoria.cs",
+              "RelativeToolTip": "APIPruebas\\Models\\Categoria.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T14:05:56.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductoController.cs",
+              "DocumentMoniker": "C:\\Users\\matim\\OneDrive\\TUP\\proyectos\\APIPruebas\\APIPruebas\\Controllers\\ProductoController.cs",
+              "RelativeDocumentMoniker": "APIPruebas\\Controllers\\ProductoController.cs",
+              "ToolTip": "C:\\Users\\matim\\OneDrive\\TUP\\proyectos\\APIPruebas\\APIPruebas\\Controllers\\ProductoController.cs",
+              "RelativeToolTip": "APIPruebas\\Controllers\\ProductoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAswAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T13:39:29.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\matim\\OneDrive\\TUP\\proyectos\\APIPruebas\\APIPruebas\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "APIPruebas\\Models\\Producto.cs",
+              "ToolTip": "C:\\Users\\matim\\OneDrive\\TUP\\proyectos\\APIPruebas\\APIPruebas\\Models\\Producto.cs",
+              "RelativeToolTip": "APIPruebas\\Models\\Producto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T13:37:00.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\matim\\OneDrive\\TUP\\proyectos\\APIPruebas\\APIPruebas\\Program.cs",
+              "RelativeDocumentMoniker": "APIPruebas\\Program.cs",
+              "ToolTip": "C:\\Users\\matim\\OneDrive\\TUP\\proyectos\\APIPruebas\\APIPruebas\\Program.cs",
+              "RelativeToolTip": "APIPruebas\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T13:31:34.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\matim\\OneDrive\\TUP\\proyectos\\APIPruebas\\APIPruebas\\appsettings.json",
+              "RelativeDocumentMoniker": "APIPruebas\\appsettings.json",
+              "ToolTip": "C:\\Users\\matim\\OneDrive\\TUP\\proyectos\\APIPruebas\\APIPruebas\\appsettings.json",
+              "RelativeToolTip": "APIPruebas\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-08T13:29:46.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DbapiarticulosContext.cs",
+              "DocumentMoniker": "C:\\Users\\matim\\OneDrive\\TUP\\proyectos\\APIPruebas\\APIPruebas\\Models\\DbapiarticulosContext.cs",
+              "RelativeDocumentMoniker": "APIPruebas\\Models\\DbapiarticulosContext.cs",
+              "ToolTip": "C:\\Users\\matim\\OneDrive\\TUP\\proyectos\\APIPruebas\\APIPruebas\\Models\\DbapiarticulosContext.cs",
+              "RelativeToolTip": "APIPruebas\\Models\\DbapiarticulosContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADkAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T13:19:24.669Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
